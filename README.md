@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mahiro.oyama.pictures/Hai">
+  <img src="https://asahi.pet/Yes">
   <br />
   <strong>Hello!</strong>
   I'm <a href="https://split.pet">split</a>. Nice to meet you~!
