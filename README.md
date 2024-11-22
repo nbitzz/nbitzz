@@ -2,7 +2,7 @@
   <img src="https://asahi.pet/Yes">
   <br />
   <strong>Hello!</strong>
-  I'm <a href="https://split.pet">split</a>. Nice to meet you~!
+  I'm <a href="https://split.pet">split</a>. Nice to meet you!
 </p>
   <br /><hr />
 <p align="center">
