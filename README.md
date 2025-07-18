@@ -1,5 +1,5 @@
 I'm ame needy streamer overload \
-Hater of @raymonable \
+Hater of [Raymond](https://canwetouch.tips) \
 Lover of [Emily](https://yurion.top) \
 [I like typing](https://split.pet/monkeytype) \
 [Please website](https://split.pet) \
